@@ -1,2 +1,2 @@
 # Spread-gram
-A python implication of Spread-gram
+A python implication of spread-gram
