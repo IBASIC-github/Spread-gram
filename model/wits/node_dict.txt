@@ -1,0 +1,233 @@
+0	Aruba
+1	Netherlands Antilles
+2	Venezuela
+3	Netherlands
+4	Colombia
+5	Curaçao
+6	Panama
+7	United States
+8	Paraguay
+9	United Kingdom
+10	Finland
+11	Afghanistan
+12	Germany
+13	United Arab Emirates
+14	Russian Federation
+15	Turkey
+16	Iran, Islamic Rep.
+17	China
+18	India
+19	Pakistan
+20	Iraq
+21	Japan
+22	Kazakhstan
+23	Turkmenistan
+24	Uzbekistan
+25	Angola
+26	Spain
+27	France
+28	Italy
+29	Canada
+30	Other Asia, nes
+31	Brazil
+32	Singapore
+33	Portugal
+34	South Africa
+35	Korea, Dem. Rep.
+36	Korea, Rep.
+37	Anguila
+38	Guyana
+39	St. Lucia
+40	Trinidad and Tobago
+41	Antigua and Barbuda
+42	Albania
+43	Serbia, FR(Serbia/Montenegro)
+44	Croatia
+45	Macedonia, FYR
+46	Malta
+47	Greece
+48	Austria
+49	Denmark
+50	Slovak Republic
+51	Bulgaria
+52	Andorra
+53	Norway
+54	Belgium-Luxembourg
+55	Belgium
+56	Hong Kong, China
+57	Switzerland
+58	Lithuania
+59	Saudi Arabia
+60	Kuwait
+61	Yemen
+62	Oman
+63	Thailand
+64	Argentina
+65	Chile
+66	Uruguay
+67	Mexico
+68	Bolivia
+69	Armenia
+70	Israel
+71	Georgia
+72	Ukraine
+73	Montserrat
+74	New Zealand
+75	British Virgin Islands
+76	Grenada
+77	Dominica
+78	Barbados
+79	Suriname
+80	St. Vincent and the Grenadines
+81	Dominican Republic
+82	St. Kitts and Nevis
+83	Jamaica
+84	Special Categories
+85	Australia
+86	Hungary
+87	Czech Republic
+88	Azerbaijan
+89	Iceland
+90	Indonesia
+91	Guinea
+92	Burundi
+93	Tanzania
+94	Congo, Dem. Rep.
+95	Saint Helena
+96	Djibouti
+97	Kenya
+98	Rwanda
+99	Uganda
+100	Zambia
+101	Ireland
+102	Benin
+103	Togo
+104	Niger
+105	Gabon
+106	Malaysia
+107	Nigeria
+108	Ghana
+109	Cote d'Ivoire
+110	Vietnam
+111	Chad
+112	Burkina Faso
+113	Mali
+114	Bangladesh
+115	Antarctica
+116	Liberia
+117	Romania
+118	Bahrain
+119	Qatar
+120	Bahamas, The
+121	Bosnia and Herzegovina
+122	Slovenia
+123	Belarus
+124	Latvia
+125	Poland
+126	Belize
+127	Guatemala
+128	Costa Rica
+129	Bunkers
+130	Namibia
+131	Cuba
+132	Bermuda
+133	Peru
+134	Brunei
+135	Philippines
+136	Bhutan
+137	Nepal
+138	Sweden
+139	Botswana
+140	Zimbabwe
+141	Central African Republic
+142	Free Zones
+143	Cameroon
+144	Fm Sudan
+145	Congo, Rep.
+146	Egypt, Arab Rep.
+147	Equatorial Guinea
+148	Heard Island and McDonald Isla
+149	Cook Islands
+150	Papua New Guinea
+151	Fiji
+152	Ecuador
+153	Comoros
+154	American Samoa
+155	Mauritius
+156	Madagascar
+157	Cape Verde
+158	Mauritania
+159	Senegal
+160	Mozambique
+161	Guinea-Bissau
+162	Honduras
+163	Nicaragua
+164	Cayman Islands
+165	Cyprus
+166	Syrian Arab Republic
+167	Lebanon
+168	Somalia
+169	Ethiopia(excludes Eritrea)
+170	Guadeloupe
+171	Haiti
+172	Algeria
+173	Libya
+174	Eritrea
+175	Estonia
+176	European Union
+177	Soviet Union
+178	Tonga
+179	Faeroe Islands
+180	Vanuatu
+181	Micronesia, Fed. Sts.
+182	Marshall Islands
+183	Northern Mariana Islands
+184	Guam
+185	Morocco
+186	French Guiana
+187	Martinique
+188	Gambia, The
+189	Greenland
+190	El Salvador
+191	Czechoslovakia
+192	German Democratic Republic
+193	Monaco
+194	Jordan
+195	Kyrgyz Republic
+196	Cambodia
+197	Kiribati
+198	Tuvalu
+199	Sri Lanka
+200	Lesotho
+201	Luxembourg
+202	Macao
+203	Moldova
+204	Reunion
+205	Maldives
+206	Myanmar
+207	Mongolia
+208	Montenegro
+209	Malawi
+210	Swaziland
+211	Mayotte
+212	Seychelles
+213	New Caledonia
+214	Palau
+215	Pitcairn
+216	Occ.Pal.Terr
+217	French Polynesia
+218	Bouvet Island
+219	Sudan
+220	Solomon Islands
+221	Sierra Leone
+222	Sao Tome and Principe
+223	Turks and Caicos Isl.
+224	Tajikistan
+225	East Timor
+226	Samoa
+227	Tunisia
+228	South Sudan
+229	 World
+230	World
+231	Wallis and Futura Isl.
+232	Tokelau
